@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Full Stack Web Development (Ruby on Rails, React and Redux)
 - 👯 I’m looking to collaborate on JavaScript, React and Ruby on Rails Project
 - 💬 Ask me about Web Development
-- 📫 How to reach me: [Twitter](https://twitter.com/@mihndim), [Linkedin](https://www.linkedin.com/in/mih-julius/)
+- 📫 How to reach me: [Twitter](https://twitter.com/@mihndim), [Linkedin](https://www.linkedin.com/in/mihndim/)
 - 😄 Pronouns: He/Him
 - ⚡ If it looks difficult, change your perspective
 
