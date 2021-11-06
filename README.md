@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on JavaScript, React and Ruby on Rails Project
 - I'm open to new job opportunities
 - 💬 Ask me about Web Development
-- 📫 How to reach me: [Twitter](https://twitter.com/@mihndim), [Linkedin](https://www.linkedin.com/in/mihndim/)
+- 📫 How to reach me: [Twitter](https://twitter.com/@mihndim), [Linkedin](https://www.linkedin.com/in/mihndim/), [Portfolio](https://mihndim2020.github.io/Portfolio-Page/)
 - 😄 Pronouns: He/Him
 - ⚡ If it looks difficult, change your perspective
 
