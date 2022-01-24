@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently a full time student at Microverse Inc.
-- 🌱 I’m currently learning Full Stack Web Development (Ruby on Rails, React and Redux)
-- 👯 I’m looking to collaborate on JavaScript, React and Ruby on Rails Project
+- 🔭 I’m currently a part time Technical Support Engineer at Microverse Inc.
+- 🌱 I’m a Full Stack Web Developer (Ruby on Rails, React and Redux, Cypress)
+- 👯 I’m looking to collaborate on JavaScript, React, Cypress and Ruby on Rails Project
 - I'm open to new job opportunities
 - 💬 Ask me about Web Development
 - 📫 How to reach me: [Twitter](https://twitter.com/@mihndim), [Linkedin](https://www.linkedin.com/in/mihndim/), [Portfolio](https://mihndim2020.github.io/Portfolio-Page/)
